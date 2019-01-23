@@ -8,3 +8,4 @@ Instructions:
 
 Screenshot:
 
+![screenshot_20190123-113043_week3daily2homework](https://user-images.githubusercontent.com/46490503/51621771-379e6080-1f03-11e9-9652-b76eb5313912.jpg)
